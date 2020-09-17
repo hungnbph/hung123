@@ -21,4 +21,8 @@ class sinhvien extends phuhuynh{
 $hungnb = new sinhvien(' hưng',9,9,7);
 echo $hungnb->diemtb();
 
+
  ?>
+ <h1>
+ 	hưng yêu lệ
+ </h1>
